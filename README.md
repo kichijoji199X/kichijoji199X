@@ -1,5 +1,8 @@
-<img align="center" src="https://64.media.tumblr.com/9fcd08a2263ff377b0ae8dad916dd946/43b0ad131d56aafc-6b/s100x200/fb0c01b60075ea6bfe6d42f94ee0798e90d5600c.gifv" alt="1x1x1x1">
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=GITHUB-USERNAME&label=Profile%20views&color=ce9927&style=flat" alt="GITHUB-USERNAME" /> </p>
+ ⠀⠀⠀ ⠀⠀ ⠀  ⠀⠀⠀ ⠀⠀ ⠀ ⠀⠀⠀      <p align="center">
+  ![1x1x1x1](https://64.media.tumblr.com/9fcd08a2263ff377b0ae8dad916dd946/43b0ad131d56aafc-6b/s100x200/fb0c01b60075ea6bfe6d42f94ee0798e90d5600c.gifv)
+</p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=kichijoji199X&label=Profile%20views&color=242848&style=flat" alt="kichijoji199X" /> </p>
 
 <!--
 **kichijoji199X/kichijoji199X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
