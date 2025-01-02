@@ -1,7 +1,7 @@
 
 
  ⠀⠀⠀ ⠀⠀ ⠀  ⠀⠀⠀ ⠀⠀ ⠀ ⠀⠀⠀      <p align="center">
-   ![1x1x1x1](https://64.media.tumblr.com/9fcd08a2263ff377b0ae8dad916dd946/43b0ad131d56aafc-6b/s100x200/fb0c01b60075ea6bfe6d42f94ee0798e90d5600c.gifv)
+   ![hjd](https://static.wikia.nocookie.net/fridaynightfunking/images/a/af/HJDJohnDoeIdle.gif/revision/latest/top-crop/width/40/height/40?cb=20241214082532)
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kichijoji199X&label=saint%20quartz&color=93BA81&style=flat" alt="kichijoji199X" /> </p>
