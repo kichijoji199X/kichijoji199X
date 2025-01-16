@@ -4,7 +4,7 @@
    ![hjd](https://i.imgur.com/MAAySWb.gif)
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=kichijoji199X&label=JACKPOT!&color=A7AFB2&style=flat" alt="kichijoji199X" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=kichijoji199X&label=%20%20%20🎰%20%20%20&color=A7AFB2&style=flat" alt="kichijoji199X" /> </p>
 
 <!--
 **kichijoji199X/kichijoji199X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
